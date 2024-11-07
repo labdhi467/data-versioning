@@ -1,0 +1,6 @@
+outs:
+- md5: 4e157f346ff1b6339e491af96a84b0c0.dir
+  size: 17434882
+  nfiles: 10
+  hash: md5
+  path: nature_dataset

@@ -1,0 +1,4 @@
+[core]
+    remote = nature_dataset
+['remote "nature_dataset"']
+    url = gs://ac215-bucket-hw/dvc_store
